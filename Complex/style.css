@@ -51,10 +51,22 @@ body {
     margin: 10px;
 }
 
+h6 {
+    padding: 5px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
 img {
     border-radius: 50%;
     width: 180px;
     height: 180px;
+}
+
+p {
+    font-family: ;
+    color: gray;
 }
 
 @media (max-width: 768px) {
